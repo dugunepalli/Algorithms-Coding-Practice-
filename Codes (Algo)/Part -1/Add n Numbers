@@ -1,0 +1,6 @@
+Main Part: Add Header Files and etc
+Part-1: Initialize Variables (a, n)
+part-2: Input "n"
+part-3: for Loop in range of n(int i=0;i<=n;i++)
+part-4: {a+=n}
+part-3: Print "a"
